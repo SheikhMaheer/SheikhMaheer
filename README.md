@@ -8,6 +8,6 @@
 - 📫 How to reach me: https://www.facebook.com/SheikhMohammadAliMaheer
 - 😄 Pronouns: Mohammad Ali
 - ✍🏻 Current Tech Stack:
-         -Programming Languages: ['JavaScript'],
-         -CSS frameworks: ['Bootstrap', 'Tailwind CSS'],
-         -In Detail: ['HTML-100%', 'CSS-87%']
+- Programming Languages: ['JavaScript'],
+- CSS frameworks: ['Bootstrap', 'Tailwind CSS'],
+- In Detail: ['HTML-100%', 'CSS-87%']
