@@ -102,22 +102,28 @@ Highlights: 3D setup, scene controls, rendering pipeline
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <div align="center">
 
+<!-- Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=SheikhMaheer&show_icons=true&count_private=true&hide_border=true&theme=transparent" width="55%" />
 
+<!-- Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SheikhMaheer&hide_border=true&theme=transparent" width="55%" />
 
+<!-- Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhMaheer&layout=compact&hide_border=true&theme=transparent" width="45%" />
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=SheikhMaheer&margin-w=10" width="80%" /> -->
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=SheikhMaheer&no-frame=true&no-bg=true&theme=flat&border_color=1E90FF"
-  alt="Trophy"
-  width="90%"
-/>
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=SheikhMaheer&margin-w=10&no-frame=true" width="80%" />
+
 </div>
+
+---
+
+## 🌍 Social
+**Portfolio:** https://github.com/SheikhMaheer  
+**Facebook:** facebook.com/SheikhMohammadAliMaheer  
 
 ---
