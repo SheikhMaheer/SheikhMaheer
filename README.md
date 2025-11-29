@@ -67,7 +67,6 @@ Mindset: Build → Improve → Refine
 ---
 
 # 🧭 Project Roadmap
-*(Professional descriptions that show real developer maturity)*
 
 ### 🔹 **[ ] Modern Portfolio Website**
 A clean, responsive and fast portfolio built with a focus on visual clarity and smooth interaction.
