@@ -124,6 +124,6 @@ Highlights: 3D setup, scene controls, rendering pipeline
 
 ## 🌍 Social
 **Portfolio:** https://github.com/SheikhMaheer  
-**Facebook:** facebook.com/SheikhMohammadAliMaheer  
+**Facebook:** https://facebook.com/SheikhMohammadAliMaheer  
 
 ---
