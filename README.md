@@ -104,7 +104,7 @@ Highlights: 3D setup, scene controls, rendering pipeline
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SheikhMaheer&show_icons=true&count_private=true&hide_border=true&theme=transparent" width="55%" />
 
@@ -114,7 +114,14 @@ Highlights: 3D setup, scene controls, rendering pipeline
 
 <img src="https://github-profile-trophy.vercel.app/?username=SheikhMaheer&margin-w=10&no-frame=true" width="80%" />
 
-</div>
+</div> -->
+
+
+![](https://github-readme-stats.vercel.app/api?username=SheikhMaheer&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SheikhMaheer&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhMaheer&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=SheikhMaheer&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4)
+
 
 ---
-
