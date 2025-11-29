@@ -66,10 +66,10 @@ Mindset: Build → Improve → Refine
 
 ---
 
-# 🚀 Featured Projects  
+# 🧭 Project Roadmap
 *(Professional descriptions that show real developer maturity)*
 
-### 🔹 **Modern Portfolio Website**
+### 🔹 **[ ] Modern Portfolio Website**
 A clean, responsive and fast portfolio built with a focus on visual clarity and smooth interaction.
 Designed the UI from scratch in Figma and turned it into a component-based React interface.
 Includes subtle animations, reusable components and mobile-first performance optimization.
@@ -77,7 +77,7 @@ Includes subtle animations, reusable components and mobile-first performance opt
 Tech: React, Tailwind CSS, JavaScript
 Highlights: custom design system, component architecture, responsive UI
 
-### 🔹 **TaskFlow — Task Management Web App**
+### 🔹 **[ ] TaskFlow — Task Management Web App**
 A minimal task management app with real-time task handling through a Node.js + Express API.
 Frontend built with React using a predictable state structure and clean UX.
 MongoDB schema designed for scalability and future authentication support.
@@ -85,7 +85,7 @@ MongoDB schema designed for scalability and future authentication support.
 Tech: React, Node.js, Express.js, MongoDB
 Highlights: CRUD API, clean data flow, structured backend logic
 
-### 🔹 **ShopLite — Mini E-commerce Frontend**
+### 🔹 **[ ] ShopLite — Mini E-commerce Frontend**
 A lightweight e-commerce interface showcasing products, categories and a functional cart.
 Focused on clean UI flow and reusable component patterns.
 Built to demonstrate scalable frontend structure and clear logic.
@@ -93,7 +93,7 @@ Built to demonstrate scalable frontend structure and clear logic.
 Tech: React, CSS3, JavaScript
 Highlights: cart logic, scalable folder structure, product rendering system
 
-### 🔹 **3D Web Experiment (Beginner Project)**
+### 🔹 **[ ] 3D Web Experiment (Beginner Project)**
 A small interactive 3D scene created using Three.js / Spline to explore 3D web fundamentals.
 Includes basic lighting, scene setup and responsive rendering.
 Serves as a base for future advanced 3D UI projects.
