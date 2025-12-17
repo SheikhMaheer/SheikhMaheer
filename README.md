@@ -30,7 +30,7 @@ Web development, frontend architecture, UI structure.
 
 ## 📫 Contact Me
 - Email: **sheikh.maheer@outlook.com**  
-- Portfolio: **https://github.com/SheikhMaheer**  
+- Portfolio: **https://github.com/maheerCodes**  
 - Facebook: **https://www.facebook.com/maheer.codes**
 - Instagram: **https://www.instagram.com/maheer.codes**  
 
