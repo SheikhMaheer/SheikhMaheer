@@ -32,6 +32,7 @@ Web development, frontend architecture, UI structure.
 - Email: **sheikh.maheer@outlook.com**  
 - Portfolio: **https://github.com/SheikhMaheer**  
 - Facebook: **[facebook.com/SheikhMohammadAliMaheer](https://www.facebook.com/SheikhMohammadAliMaheer)**
+- Instagram: **https://www.instagram.com/maheer.codes/**  
 
 ---
 
