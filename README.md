@@ -8,7 +8,7 @@ Focused on writing solid code, learning deeply and improving with every project.
 
 <br>
 
-### 🔹 Frontend Developer  
+### 🔹 Frontend Developer   
 ### 🔹 Exploring 3D Web Development  
 ### 🔹 Expanding into Full-Stack
 
