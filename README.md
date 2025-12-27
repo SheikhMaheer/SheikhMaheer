@@ -31,8 +31,8 @@ Web development, frontend architecture, UI structure.
 ## 📫 Contact Me
 
 - Email: **maheer.codes@outlook.com**
-- Codepen: **https://codepen.io/maheerCodes**  
 - Portfolio: **https://github.com/maheerCodes**
+- Codepen: **https://codepen.io/maheerCodes**  
 - Discord: **https://discord.com/users/maheer.codes**
 - Instagram: **https://www.instagram.com/maheer.codes**
 
