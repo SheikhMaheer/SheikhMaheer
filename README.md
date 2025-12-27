@@ -29,10 +29,12 @@ Focused on writing solid code, learning deeply and improving with every project.
 Web development, frontend architecture, UI structure.
 
 ## 📫 Contact Me
-- Email: **maheer.codes@outlook.com**  
-- Portfolio: **https://github.com/maheerCodes**  
-- Facebook: **https://www.facebook.com/maheer.codes**
-- Instagram: **https://www.instagram.com/maheer.codes**  
+
+- Email: **maheer.codes@outlook.com**
+- Codepen: **https://codepen.io/maheerCodes**  
+- Portfolio: **https://github.com/maheerCodes**
+- Discord: **https://discord.com/users/maheer.codes**
+- Instagram: **https://www.instagram.com/maheer.codes**
 
 ---
 
